@@ -28,6 +28,26 @@ EduWeb is an Educational Course Management Website built using the Laravel Frame
 
 ## 📱 Screenshots
 
-AdminPanel Login Screen  | 
+ Login Page  | 
 :-------------------------:|
-<img src="https://github.com/JishanTechWhiz/CricDjangoz/blob/main/cricKnightss/media/photos/1.png" height="400" width="900"> | 
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/1.png" height="400" width="900"> | 
+
+ SignUp Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/2.png" height="400" width="900"> | 
+
+ Home Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/3.png" height="400" width="900"> | 
+
+ View Course Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/4.png" height="400" width="900"> | 
+
+ Single Course Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/5.png" height="400" width="900"> | 
+
+ Screen  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/1.png" height="400" width="900"> | 
