@@ -26,3 +26,8 @@ EduWeb is an Educational Course Management Website built using the Laravel Frame
 - EduWeb aims to streamline the educational experience by providing a user-friendly interface for both learners and administrators, fostering a conducive environment for learning and skill development.
 
 
+## 📱 Screenshots
+
+AdminPanel Login Screen  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/CricDjangoz/blob/main/cricKnightss/media/photos/1.png" height="400" width="900"> | 
