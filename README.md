@@ -51,3 +51,20 @@ EduWeb is an Educational Course Management Website built using the Laravel Frame
  Payment Page  | 
 :-------------------------:|
 <img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/11.png" height="400" width="900"> | 
+
+
+ Admin Course Management Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/7.png" height="400" width="900"> | 
+
+Admin Add Course Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/8.png" height="400" width="900"> | 
+
+Admin Update Course Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/9.png" height="400" width="900"> | 
+
+Admin Delete Course Page  | 
+:-------------------------:|
+<img src="https://github.com/JishanTechWhiz/eduWeb/blob/main/public/fronted/images/10.png" height="400" width="900"> | 
